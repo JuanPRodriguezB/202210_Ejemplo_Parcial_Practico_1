@@ -1,4 +1,5 @@
 # Ejemplo Parcial Práctico 1
+Juan Pablo Rodríguez Briceño
 
 ## Instrucciones
 
